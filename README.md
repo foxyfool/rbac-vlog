@@ -6,7 +6,7 @@
 npm install
 ```
 
-## run - npm run dev in the root directory and also inside express-server
+## run - in the root directory and also inside express-server
 ```bash
-npm start
+npm run dev
 ```
